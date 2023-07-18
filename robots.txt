@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fbpierazzi.github.io/new-website/sitemap.xml
+Sitemap: https://fabio.pierazzi.com/new-website/sitemap.xml
